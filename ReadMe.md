@@ -1,6 +1,6 @@
 # Evangadi TODO API Application 
 
-A TODO application API boilerplate/project starter source code with Node.JS.
+A TODO application API boilerplate/project starter source code with NodeJS.
 
 *__NOTE: This project is not completed yet, Feel free to clone and contribute__*
 
